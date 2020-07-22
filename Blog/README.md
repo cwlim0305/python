@@ -1,4 +1,3 @@
-# python workspace
 Blog Example
 
  - https://www.youtube.com/watch?v=jS4fLseF_cs
